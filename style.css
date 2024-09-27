@@ -1,0 +1,33 @@
+
+.bando{
+    background-color: rgba(41, 35, 31, 0.38);
+    font-size: 15px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+
+
+
+
+
+
+}
+
+.citation{
+    font-style: italic;
+    font-family:"Papyrus";
+    text-align: center;
+    margin-top:300px;
+    font-size: 45px;
+    color: rgba(18, 17, 17, 0.19);
+}
+.nom{
+    text-align: left;
+    color: #dde8e4;
+}
+.lien{
+    text-align:right;
+}
+body { background-image: url("img.png") }
